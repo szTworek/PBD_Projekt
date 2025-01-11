@@ -1,2 +1,2 @@
-# PBD_Projekt
-Projekt z PBD AGH
+# Database basics project @ AGH UST
+
