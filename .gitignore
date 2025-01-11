@@ -1,0 +1,6 @@
+
+# For generators
+*.csv
+
+# For python cache files
+__pycache__/
