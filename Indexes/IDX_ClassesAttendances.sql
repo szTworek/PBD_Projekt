@@ -1,0 +1,2 @@
+CREATE INDEX IDX_ClassesAttendances_ClassID ON ClassesAttendances(ClassID)
+CREATE INDEX IDX_ClassesAttendances_StudentID ON ClassesAttendances(StudentID)

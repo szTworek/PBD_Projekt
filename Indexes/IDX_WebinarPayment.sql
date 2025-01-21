@@ -1,0 +1,1 @@
+CREATE INDEX IDX_WebinarPayment_WebinarID ON WebinarPayments (WebinarID);

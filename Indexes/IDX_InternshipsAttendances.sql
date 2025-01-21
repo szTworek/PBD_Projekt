@@ -1,0 +1,2 @@
+CREATE INDEX IDX_InternshipsAttendances_StudentID ON InternshipsAttendances (StudentID);
+CREATE INDEX IDX_InternshipsAttendances_InternshipID ON InternshipsAttendances (InternshipID);

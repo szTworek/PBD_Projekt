@@ -1,0 +1,1 @@
+CREATE INDEX IDX_ClassesPayments_ClassID ON ClassesPayments (ClassID);
